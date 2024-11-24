@@ -1,7 +1,7 @@
 # 关于当前仓库      
 本仓库主要用于发布XX翻译扩展插件的[Release](https://github.com/xianwenzi888/test-fanyi/releases)的版本以及使用[Github Issues](https://github.com/xianwenzi888/test-fanyi/issues)收集和跟进用户反馈。<br><br>
 
-[XX翻译扩展]() 是一款强大又实用的浏览器翻译插件,本插件提供了鼠标划词搜索、逐段对照和PDF文献生成译文功能等.此外,它支持多种翻译引擎,如Bing、GPT、Google等,并且可以同步XX词典客户端的学习记录。<br>
+[XX翻译扩展](https://www.eudic.net/v4/en/app/plugins) 是一款强大又实用的浏览器翻译插件,本插件提供了鼠标划词搜索、逐段对照和PDF文献生成译文功能等.此外,它支持多种翻译引擎,如Bing、GPT、Google等,并且可以同步XX词典客户端的学习记录。<br>
 
 ==xx翻译扩展主要功能介绍==
 - 划词搜索功能：只需用鼠标划选文本，欧路翻译便会自动检测并提供搜索结果，省去了手动复制和粘贴的麻烦。<br>

@@ -1,5 +1,5 @@
 # 关于当前仓库      
-本仓库主要用于发布XX翻译扩展插件的[Release]()的版本以及使用[Github Issues]()收集和跟进用户反馈。<br><br>
+本仓库主要用于发布XX翻译扩展插件的[Release](https://github.com/xianwenzi888/test-fanyi/releases)的版本以及使用[Github Issues]()收集和跟进用户反馈。<br><br>
 
 [XX翻译扩展]() 是一款强大又实用的浏览器翻译插件,本插件提供了鼠标划词搜索、逐段对照和PDF文献生成译文功能等.此外,它支持多种翻译引擎,如Bing、GPT、Google等,并且可以同步XX词典客户端的学习记录。<br>
 

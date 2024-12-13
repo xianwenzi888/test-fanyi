@@ -1,4 +1,5 @@
 # 关于当前仓库
+本仓库主要用于发布XX翻译扩展插件的[Release](https://github.com/xianwenzi888/test-fanyi/releases)的版本以及使用[Github Issues](https://github.com/xianwenzi888/test-fanyi/issues)收集和跟进用户反馈。<br>
 ## 🌟 欧路翻译插件 - 强大而实用的翻译工具 🚀
 
 **欧路翻译插件**是一款高效、智能的浏览器插件，专为提升阅读和翻译体验而设计。不论是学习外语、阅读外文文献，还是处理工作任务，这款插件都能帮您轻松应对语言障碍。以下是它的主要功能及亮点介绍！ 🎉
